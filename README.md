@@ -47,21 +47,4 @@
 
 ##
 <!--Cobra--->
-<div>
-  ![snake gif](https://github.com/Viniciusxk/Viniciusxk/blob/output/github-contribution-grid-snake.svg)
-</div>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Viniciusxk/README.md at main · Viniciusxk/Viniciusxk
+![snake gif](https://github.com/Viniciusxk/Viniciusxk/blob/output/github-contribution-grid-snake.svg)
