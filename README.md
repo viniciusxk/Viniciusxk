@@ -1,10 +1,10 @@
-## Oiii eu sou Vinicius, desenvolvedor front-end Web e Mobile!
+## Oiii eu sou Vinicius, Desenvolvedor Front-end Web e Mobile!
 <!--Conhecimentos--->
 <div align="center">
   <a href="https://github.com/viniciusxk">
     <img height="25%"
       src="https://github-readme-stats.vercel.app/api?username=viniciusxk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="25%"
+    <img height="30%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxk&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <!--Linguagens--->
