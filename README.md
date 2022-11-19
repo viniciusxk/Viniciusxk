@@ -43,10 +43,12 @@
   <a href="https://www.linkedin.com/in/vinicius-leandro-227a12204/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
-  <!--Cobrita--->
-  ![Snake animation](https://github.com/Viniciusxk/Viniciusxk/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+  <!--Cobrita--->
+  <div>
+    ![Snake animation](https://github.com/Viniciusxk/Viniciusxk/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
